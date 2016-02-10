@@ -1,4 +1,9 @@
 ..
+#install tcl to visualize github flow
+
+#pushing
+git push -u origin master
+
 #initialize repo
 git init
 
