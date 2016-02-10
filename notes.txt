@@ -1,0 +1,152 @@
+..
+./hello.sh
+/Applications/Utilities/
+/Library/
+/System/
+/Users/AmyAir/Documents
+/Users/AmyAir/Documents/
+Desktop/
+Desktop/helloworld
+Projects/
+
+#open everything in atom
+atom .
+
+#configure fish with atom
+atom ~/.config/fish/config.fish
+
+#produce js type file on Desktop using atom
+atom ~/Desktop/test.js
+
+#display info for fish install
+brew info fish
+
+#install git using homebrew
+brew install git
+
+#install node.js using homebrew
+brew install node
+
+#install tree using homebrew
+brew install tree
+
+#get into home dir
+cd
+cd
+
+#go one level up from home dir
+cd ..
+
+
+cd .config/
+cd /
+cd /Projects/
+cd /Users
+cd /Users/AmyAir/Documents/
+cd /Users/AmyAir/Library/Application\ Support/
+cd /private/
+cd Applications/
+cd Desktop
+cd Documents
+cd Library
+cd Projects
+cd derzorngottes.surge.sh/
+cd no
+cd notebook/
+cd ~/Projects/
+chmod +x ./hello.sh
+cs
+cs .config/
+curl -fsSL https://git.io/vgqFH | sh
+curl -fsSL https://git.io/vgqFU | ruby
+curl -fsSL https://git.io/vgqFU | sh
+
+#print output of variable
+echo $EDITOR
+echo $PATH
+
+echo ~
+fish_update_completions
+git --version
+git add CNAME
+git add index.html
+git commit -m 'Add a CNAME'
+git commit -m 'Add a tiny web page.'
+git config --global user.email 'AMY.CONCHIE@GMAIL.COM'
+git config --global user.email 'amy.conchie@gmail.com'
+git config --global user.name 'AMY CONCHIE'
+git config --global user.name 'derzorngottes'
+git init
+git log
+git status
+help
+history
+history > notes.txt
+ll
+lol
+ls
+ls -G
+ls -L
+ls -a
+ls -l
+ls -lr
+ls -lt
+ls -r
+ls -rt
+ls -t
+ls -tr
+ls _l
+man cd
+man ls
+man nice
+man rm
+man t
+mkdir derzorngottes.surge.sh
+mkdir notebook
+mkdir ~/Projects
+nano .bash_profile
+nano .profile
+nice
+node
+node -v
+node ~/Desktop/test.js
+note -v
+npm install -g surge
+open .
+open Extensions
+open Ruby
+open helloworld.bash
+open index.html
+open notes.txt
+open wc-1.png
+pwd
+qc2movie
+reset
+rest
+restart
+rm notes.txt
+rm ~/Desktop/helloworld.bash
+rm ~/Desktop/test.js
+surge
+surge -V
+touch CNAME
+touch index.html
+touch notes.txt
+tree -L 1
+tree -L 2
+tree -L 900
+tree -aL
+tree -aL 2
+tree -aL 900
+uname
+which
+which $PATH
+which PATH
+which echo
+which whoami
+who
+who am i
+who am i>who am i?
+who am i???
+whoami
+~
