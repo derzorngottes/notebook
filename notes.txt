@@ -1,4 +1,13 @@
 ..
+#initialize repo
+git init
+
+#add file to staging area
+git add
+
+#commit file changes
+git commit -m 'message'
+
 ./hello.sh
 /Applications/Utilities/
 /Library/
